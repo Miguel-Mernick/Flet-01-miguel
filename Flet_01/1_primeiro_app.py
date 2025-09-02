@@ -12,7 +12,7 @@ def main(page: ft.Page):
 
     # Criando nosso primeiro elemento: um texto
     meu_texto = ft.Text(
-        value="👋 Hello world! (Primeiro app com Flet!)",  # O texto que será exibido
+        value="Boa boa meu nobre! como vai?",  # O texto que será exibido
         size=24,  # Tamanho da fonte
         color=ft.Colors.BLUE,  # Cor do texto
         weight=ft.FontWeight.BOLD,  # Texto em negrito
