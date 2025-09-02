@@ -9,24 +9,6 @@ Cada projeto é independente e serve como **atividade prática** para consolidar
 
 ---
 
-## 📖 Sumário
-1. [👋 Primeiro App](#1--primeiro-app-1_primeiro_apppy)  
-2. [🟢 Botão Simples](#2--botão-simples-2_botao_simplespy)  
-3. [📝 Campo de Texto](#3--campo-de-texto-3_campo_textopy)  
-4. [🎨 Lista de Cores](#4--lista-de-cores-4_lista_corespy)  
-5. [🧩 Layout Básico](#5--layout-básico-5_layout_basicopy)  
-   - [🧞‍♂️ Desafio 1 - Criador de Perfil](#5a--desafio-1---criador-de-perfil-5a_desafio1py)  
-6. [🔢 Contador Completo](#6--contador-completo-6_contadorpy)  
-7. [🧮 Calculadora Simples](#7--calculadora-simples-7_calculadorapy)  
-8. [⚙️ Painel de Configuração](#8--painel-de-configuração-8_painel_confpy)  
-9. [🦁 Galeria de Animais](#9--galeria-de-animais-com-filtros-9_galeria_cardspy)  
-10. [📱 App Multi-página](#10--app-multi-página-10_app_multipaginapy)  
-    - [🛒 Desafio 2 - Loja Virtual](#10a--desafio-2---loja-virtual-10a_desafio2py)  
-11. [⚖️ Desafio IMC](#11--desafio-imc-desafio_imcpy)  
-12. [🚀 Próximos Passos](#-próximos-passos)  
-
----
-
 ## 1. 👋 Primeiro App (`1_primeiro_app.py`)
 Exibe uma mensagem simples no app.  
 📸 *Exemplo de tela:*  
@@ -112,4 +94,5 @@ Calculadora de **Índice de Massa Corporal (IMC)** com resultado interpretado.
 *(adicione aqui um print do app)*  
 
 ---
+
 
